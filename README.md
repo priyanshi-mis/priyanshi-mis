@@ -1,58 +1,72 @@
-# Hi there, I'm Priyanshi Mishra 👋
+<p align="center">
+  <img src="banner.jpeg" alt="Priyanshi Mishra Banner" width="100%">
+</p>
 
-🎓 BCA Student | 📊 Aspiring Data Analyst | 💡 AI Enthusiast
+<h1 align="center">Hi 👋, I'm Priyanshi Mishra</h1>
 
-I'm passionate about turning raw data into meaningful insights through data analysis, visualization, and business intelligence. I enjoy building real-world projects with Python, SQL, and Power BI while continuously learning new technologies in AI and Data Analytics.
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | AI Enthusiast</h3>
+
+<p align="center">
+Passionate about transforming data into meaningful insights through analytics, visualization, and AI.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BCA Student at Shri Ramswaroop Memorial University
+🎓 BCA Student at Shri Ramswaroop Memorial University.
+
+I enjoy solving real-world business problems using **Python, SQL, and Power BI** while continuously improving my skills in **Data Analytics** and **Artificial Intelligence**. I love building practical projects, exploring data, and creating dashboards that support better decision-making.
+
 - 📊 Aspiring Data Analyst
-- 💻 Interested in Data Analytics, Business Intelligence, and AI
-- 🌱 Currently learning Advanced SQL, Power BI, and AI for Data Analytics
-- 🤝 Open to internships, collaborations, and learning opportunities
+- 💻 Skilled in Python, SQL, Power BI & Excel
+- 🤖 Interested in AI & Business Intelligence
+- 🌱 Currently learning Advanced SQL, Power BI & AI
+- 🤝 Open to internships and collaboration opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python
-- SQL
-
-**Data Analysis**
-- Pandas
-- NumPy
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-
-**Data Visualization**
-- Power BI
-- Matplotlib
-
-**Tools**
-- Excel
-- Git
-- GitHub
-- VS Code
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Stats
 
-### 📊 Retail Business Analysis
-Analyzed retail sales data using Python, SQL, and Power BI to identify trends, improve decision-making, and create an interactive dashboard.
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyanshi-mis&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi-mis&layout=compact&theme=tokyonight"/>
+</p>
 
-### 🐍 ATM Management System
-Developed a Python-based ATM system featuring PIN verification, balance inquiry, deposit, and withdrawal functionalities.
+---
 
-### 📈 Exploratory Data Analysis (EDA)
-Performed data cleaning, visualization, and statistical analysis to extract meaningful insights from datasets.
+## 🔥 Contribution Streak
 
-### 🗄️ SQL Sales Analysis
-Solved business problems using SQL queries to analyze sales performance and customer insights.
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Priyanshi-mis&theme=tokyonight"/>
+</p>
+
+---
+
+## 💻 Featured Projects
+
+- 📊 Retail Business Analysis
+- 🐍 ATM Management System
+- 📈 Exploratory Data Analysis (EDA)
+- 🗄️ SQL Sales Analysis
+- 📊 Power BI Dashboards
+- 🧮 Python Calculator
 
 ---
 
@@ -66,35 +80,26 @@ Solved business problems using SQL queries to analyze sales performance and cust
 - Forage – Data Visualization Job Simulation
 - NPTEL – User-Centric Computing for Human-Computer Interaction
 
-
 ---
 
 ## 🏆 Achievements
 
-- Built end-to-end data analytics projects
-- Created interactive Power BI dashboards
-- Actively maintaining a GitHub portfolio
-- Regularly sharing projects and certifications on LinkedIn
+- Built real-world Data Analytics projects using Python, SQL & Power BI
+- Developed interactive dashboards and business reports
+- Active GitHub portfolio with hands-on projects
+- Regularly share technical projects and certifications on LinkedIn
 - Participated in ICAT
 - Microsoft Student Ambassador Learning Path Participant
 
 ---
 
-## 🌱 Currently Working On
-
-- Data Analytics Portfolio
-- Power BI Dashboards
-- SQL Case Studies
-- Python Projects
-- GitHub Portfolio Enhancement
-
----
-
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/priyanshi-mishra-8ba043348
-- 💻 GitHub: https://github.com/Priyanshi-mis
+💼 LinkedIn: www.linkedin.com/in/priyanshi-mishra-8ba043348
+💻 GitHub: github.com/Priyanshi-mis
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+<p align="center">
+⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+</p>
