@@ -42,22 +42,6 @@ I enjoy solving real-world business problems using **Python, SQL, and Power BI**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyanshi-mis&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi-mis&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Priyanshi-mis&theme=tokyonight"/>
-</p>
-
----
 
 ## 💻 Featured Projects
 
@@ -70,7 +54,7 @@ I enjoy solving real-world business problems using **Python, SQL, and Power BI**
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - Google Cloud – Introduction to Generative AI
 - IBM – AI Fundamentals
@@ -82,7 +66,7 @@ I enjoy solving real-world business problems using **Python, SQL, and Power BI**
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 - Built real-world Data Analytics projects using Python, SQL & Power BI
 - Developed interactive dashboards and business reports
