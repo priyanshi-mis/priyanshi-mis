@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey there! 👋 I'm Priyanshi Mishra</h1>
 
-<h3 align="center">Aspiring Data Analyst | Python Developer | AI Enthusiast 💜</h3>
+<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | AI Enthusiast💜</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+Interactive+Dashboards+%F0%9F%93%88;Exploring+AI+and+Business+Intelligence+%F0%9F%A4%96;Learning%2C+Building%2C+and+Growing+%F0%9F%9A%80" alt="Typing SVG" />
